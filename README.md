@@ -36,7 +36,7 @@
 
 
 ### ✧ Deploy Video tutorial:
-- Here's the [video tutorial](https://youtu.be/fZdM7Ahb4JE) on how to deploy and host Miku bot.
+- Here's the https://github.com/sahan0101/Miku-MD
 - [Video Guide](https://youtu.be/fZdM7Ahb4JE)
 </br>
 
